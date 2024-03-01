@@ -1,4 +1,4 @@
-# UbuntuPrivilegeEscalationV1
+# UbuntuP-GameOver(Lay)
 Using CVE-2023-2640 CVE-2023-3262 to escalate previlege
 
 ### CVE 2023-2640
