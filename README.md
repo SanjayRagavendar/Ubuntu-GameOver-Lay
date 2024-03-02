@@ -23,4 +23,4 @@ Running the script in a low privilege will get you root access.
 Tested on Ubuntu version 5.19.0, 5.4.0 and 6.2.0
 
 ### Example
-![image](https://github.com/SanjayRagavendar/Ubuntu-GameOver-Lay/assets/91368803/98af437d-1d2e-4e60-a130-0c3d4755f6b0)
+![image](https://github.com/SanjayRagavendar/Ubuntu-GameOver-Lay/assets/91368803/9a048050-c8a4-4a50-a2cf-9e265514d56e)
